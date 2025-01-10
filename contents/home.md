@@ -18,6 +18,7 @@
      <br> <!-- Line break -->
 </div>
 
+<br> <!-- Line break -->
 #### Biography
 I am a final-year PhD candidate in Health Sociology with a specialization in quantitative research at Ghent University, Belgium.
 
