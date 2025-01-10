@@ -12,9 +12,9 @@ PhD, Sociology in Health and Demographic Research (Hedera), Ghent University | G
 
 MBA., Macro-economic and Micro-economic Data, Wuhan University | Wuhan, China, 2017—2020.  
 • GPA: 88.85/100 or 3.55/4 for compulsory courses  
-• Full scholarship for three years  
+• Full scholarship for three years   
 
 BBA, Business Administration, Northwest A&F University | Shanxi, China, 2013-2017.  
 • GPA:88.81/100, or 3.73/4 for compulsory courses  
-• Full scholarship for four years
+• Full scholarship for four years  
 
