@@ -1,7 +1,7 @@
 <div style="display: flex; align-items: center;">
     <!-- GitHub -->
     <a href="https://github.com/ShuangshuangLiu66" target="_blank" style="margin-right: 10px;">
-        <img src="https://img.shields.io/badge/-GitHub-purple?logo=github&style=social" alt="GitHub" style="width: 160px; height: 40px; border: none;">
+        <img src="https://img.shields.io/badge/-GitHub-purple?logo=github&style=social" alt="GitHub" style="width: 150px; height: 40px; border: none;">
     </a>  
     <!-- Google Scholar -->
     <a href="https://scholar.google.com/citations?user=QixTVvQAAAAJ&hl=en&oi=ao" target="_blank" style="margin-right: 10px;">
