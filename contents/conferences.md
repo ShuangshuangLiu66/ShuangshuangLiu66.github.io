@@ -1,4 +1,3 @@
-
 - 4. 118th ASA Annual Meeting 2023 - American Sociological Association, Philadelphia, PA, USA  
 
 - 3. ESA RN16 Mid-term Conference 2023 - European Sociological Association, Sociology of Health and Medicine, Prague, Czech Republic  
