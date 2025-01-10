@@ -1,22 +1,18 @@
-
-<!-- GitHub -->
-[![Github](https://https://img.shields.io/badge/-blue?logo=github)](https://github.com/ShuangshuangLiu66)
-
 <!-- GitHub -->
 <a href="https://github.com/ShuangshuangLiu66" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-black?logo=github&style=social" alt="GitHub">
+    <img src="https://img.shields.io/badge/-black?logo=github&style=social" alt="GitHub">
 </a>
 <!-- Google Scholar -->
 <a href="https://scholar.google.com/citations?user=QixTVvQAAAAJ&hl=en&oi=ao" target="_blank">
-    <img src="https://img.shields.io/badge/-Google%20Scholar-blue?logo=googlescholar&style=social" alt="Google Scholar">
+    <img src="https://img.shields.io/badge/-blue?logo=googlescholar&style=social" alt="Google Scholar">
 </a>
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/shuangshuang-liu-a6331022a" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=social" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-0077B5?logo=linkedin&style=social" alt="LinkedIn">
 </a>
 <!-- ORCID -->
 <a href="https://orcid.org/0000-0003-3474-4887" target="_blank">
-    <img src="https://img.shields.io/badge/-ORCID-green?logo=orcid&style=social" alt="ORCID">
+    <img src="https://img.shields.io/badge/-A6CE39?logo=orcid&style=social" alt="ORCID">
 </a>
 
 I am a final-year PhD candidate in Health Sociology with a specialization in quantitative research at Ghent University, Belgium.
