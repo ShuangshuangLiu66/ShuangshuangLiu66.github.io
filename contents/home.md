@@ -9,11 +9,11 @@
     </a>  
     <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/shuangshuang-liu-a6331022a" target="_blank" style="margin-right: 10px;">
-        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=social" alt="LinkedIn" style="width: 128px; height: 32px; border: none;">
+        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=social" alt="LinkedIn" style="width: 120px; height: 32px; border: none;">
     </a>  
     <!-- ORCID -->
     <a href="https://orcid.org/0000-0003-3474-4887" target="_blank">
-        <img src="https://img.shields.io/badge/-ORCID-00B2A9?logo=orcid&style=social" alt="ORCID" style="width: 128px; height: 32px; border: none;">
+        <img src="https://img.shields.io/badge/-ORCID-00B2A9?logo=orcid&style=social" alt="ORCID" style="width: 118px; height: 32px; border: none;">
     </a>
      <br> <!-- Line break -->
 </div>
