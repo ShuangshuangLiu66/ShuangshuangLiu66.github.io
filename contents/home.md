@@ -15,12 +15,8 @@
     <a href="https://orcid.org/0000-0003-3474-4887" target="_blank">
         <img src="https://img.shields.io/badge/-ORCID-00B2A9?logo=orcid&style=social" alt="ORCID" style="width: 128px; height: 32px; border: none;">
     </a>
+     <br> <!-- Line break -->
 </div>
-
-
-
-
-
 
 #### Biography
 I am a final-year PhD candidate in Health Sociology with a specialization in quantitative research at Ghent University, Belgium.
