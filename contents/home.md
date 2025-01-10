@@ -1,6 +1,15 @@
 
-
+<!-- GitHub -->
 [![shuangshaungliu66](https://img.shields.io/badge/shuangshuangliu66-github-blue?logo=github)](https://github.com/ShuangshuangLiu66)
+
+<!-- Google Scholar -->
+[![Google Scholar](https://img.shields.io/badge/Google-Scholar-blue?logo=googlescholar)](https://scholar.google.com/citations?user=QixTVvQAAAAJ&hl=en&oi=ao)
+
+<!-- LinkedIn -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](linkedin.com/in/shuangshuang-liu-a6331022a)
+
+<!-- ORCID -->
+[![ORCID](https://img.shields.io/badge/ORCID-Profile-green?logo=orcid)](https://orcid.org/0000-0003-3474-4887)
 
 I am a final-year PhD candidate in Health Sociology with a specialization in quantitative research at Ghent University, Belgium.
 
