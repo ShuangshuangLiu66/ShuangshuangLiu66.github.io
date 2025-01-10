@@ -9,13 +9,14 @@
     </a>  
     <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/shuangshuang-liu-a6331022a" target="_blank" style="margin-right: 10px;">
-        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=social" alt="LinkedIn" style="width: 160px; height: 40px; border: none;">
+        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=social" alt="LinkedIn" style="width: 160px; height: 40px; border: none;">
     </a>  
     <!-- ORCID -->
     <a href="https://orcid.org/0000-0003-3474-4887" target="_blank">
         <img src="https://img.shields.io/badge/-ORCID-green?logo=orcid&style=social" alt="ORCID" style="width: 160px; height: 40px; border: none;">
     </a>
 </div>
+
 
 
 
