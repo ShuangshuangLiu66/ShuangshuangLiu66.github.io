@@ -7,17 +7,14 @@ I am a final-year PhD candidate in Health Sociology with a specialization in qua
 #### Email
 Shuangshuang.Liu@UGent.be
 
-#### Research Interests
-Family Dynamics and Health Exposure, Population Health, Health Inequality, Class Gap.
+#### Education  
+PhD, Sociology in Health and Demographic Research (Hedera), Ghent University | Ghent, Belgium, 2020—2025.  
 
-#### Education
-PhD, Sociology in Health and Demographic Research (Hedera), Ghent University | Ghent, Belgium, 2020—2025.
+MBA., Macro-economic and Micro-economic Data, Wuhan University | Wuhan, China, 2017—2020.  
+• GPA: 88.85/100 or 3.55/4 for compulsory courses  
+• Full scholarship for three years  
 
-MBA., Macro-economic and Micro-economic Data, Wuhan University | Wuhan, China, 2017—2020.\
-    •GPA: 88.85/100 or 3.55/4 for compulsory courses\
-    •Full scholarship for three years\
-
-BBA, Business Administration, Northwest A&F University | Shanxi, China, 2013-2017.\
-    • GPA:88.81/100, or 3.73/4 for compulsory courses\
-    • Full scholarship for four years\
+BBA, Business Administration, Northwest A&F University | Shanxi, China, 2013-2017.  
+• GPA:88.81/100, or 3.73/4 for compulsory courses  
+• Full scholarship for four years
 
