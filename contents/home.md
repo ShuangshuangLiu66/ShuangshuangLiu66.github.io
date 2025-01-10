@@ -1,6 +1,6 @@
 
 <!-- GitHub -->
-[![shuangshaungliu66](https://img.shields.io/badge/shuangshuangliu66-github-blue?logo=github)](https://github.com/ShuangshuangLiu66)
+[![Github](https://https://img.shields.io/badge/-blue?logo=github)](https://github.com/ShuangshuangLiu66)
 
 <!-- GitHub -->
 <a href="https://github.com/ShuangshuangLiu66" target="_blank">
