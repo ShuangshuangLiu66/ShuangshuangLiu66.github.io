@@ -1,7 +1,7 @@
 <div style="display: flex; align-items: center;">
     <!-- GitHub -->
     <a href="https://github.com/ShuangshuangLiu66" target="_blank" style="margin-right: 10px;">
-        <img src="https://img.shields.io/badge/-GitHub-black?logo=github&style=social" alt="GitHub" style="width: 100px; height: 100px;">
+        <img src="https://img.shields.io/badge/-GitHub-6a0dad?logo=github&style=social" alt="GitHub" style="width: 100px; height: 100px;">
     </a>  
     <!-- Google Scholar -->
     <a href="https://scholar.google.com/citations?user=QixTVvQAAAAJ&hl=en&oi=ao" target="_blank" style="margin-right: 10px;">
@@ -16,6 +16,7 @@
         <img src="https://img.shields.io/badge/-ORCID-A6CE39?logo=orcid&style=social" alt="ORCID" style="width: 100px; height: 100px;">
     </a>
 </div>
+
 
 
 I am a final-year PhD candidate in Health Sociology with a specialization in quantitative research at Ghent University, Belgium.
