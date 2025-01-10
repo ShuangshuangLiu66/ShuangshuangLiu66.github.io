@@ -1,7 +1,7 @@
 <div style="display: flex; align-items: center;">
     <!-- GitHub -->
     <a href="https://github.com/ShuangshuangLiu66" target="_blank" style="margin-right: 10px;">
-        <img src="https://img.shields.io/badge/-GitHub-6a0dad?logo=github&style=social" alt="GitHub" style="width: 100px; height: 50px;">
+        <img src="https://img.shields.io/badge/-GitHub-purple?logo=github&style=social" alt="GitHub" style="width: 100px; height: 50px;">
     </a>  
     <!-- Google Scholar -->
     <a href="https://scholar.google.com/citations?user=QixTVvQAAAAJ&hl=en&oi=ao" target="_blank" style="margin-right: 10px;">
@@ -13,7 +13,7 @@
     </a>  
     <!-- ORCID -->
     <a href="https://orcid.org/0000-0003-3474-4887" target="_blank">
-        <img src="https://img.shields.io/badge/-ORCID-A6CE39?logo=orcid&style=social" alt="ORCID" style="width: 100px; height: 50px;">
+        <img src="https://img.shields.io/badge/-ORCID-green?logo=orcid&style=social" alt="ORCID" style="width: 100px; height: 50px;">
     </a>
 </div>
 
