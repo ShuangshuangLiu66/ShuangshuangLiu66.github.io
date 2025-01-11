@@ -109,35 +109,3 @@ section .main-body{
     }
 }
 
-/* 全局调整每个 section 的上下边距 */
-section {
-    margin-top: 3rem;
-    margin-bottom: 3rem;
-    padding-top: 2rem;
-    padding-bottom: 2rem;
-}
-
-/* 针对背景样式的 section */
-.bg-gradient-primary-to-secondary-light,
-.bg-gradient-primary-to-secondary-gray {
-    margin-top: 3rem;
-    margin-bottom: 3rem;
-}
-
-/* 小屏幕适配 */
-@media screen and (max-width: 991px) {
-    section {
-        margin-top: 2rem;
-        margin-bottom: 2rem;
-    }
-}
-
-/* 单独优化标题和内容 */
-section header h2 {
-    margin-bottom: 1rem;
-}
-
-section .main-body {
-    margin-top: 1rem;
-}
-
