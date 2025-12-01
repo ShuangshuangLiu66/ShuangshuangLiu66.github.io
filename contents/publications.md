@@ -2,7 +2,7 @@
 
 - <strong>Liu, S*.</strong>, Delaruelle, K., & Bracke, P. (2024). Sandwich Generation and Ever-married Women’s Perceived Stress: Do “Gone Lovers” Matter?.<strong> Society and Mental Health </strong>, 21568693231223886.[[Paper]](https://doi.org/10.1177/21568693231223886)
 
-- <strong>Liu (刘双双) S*.</strong>, Bracke, P., & Delaruelle, K. (2025). Diverging Family Behaviors: Socioeconomic Gradients in China’s First Marriage Age Across Cohorts. <strong> Journal of Family Issues <strong>, 0(0).[[Paper]](https://doi.org/10.1177/0192513X251389211)
+- <strong>Liu (刘双双) S*.</strong>, Bracke, P., & Delaruelle, K. (2025). Diverging Family Behaviors: Socioeconomic Gradients in China’s First Marriage Age Across Cohorts. <strong> Journal of Family Issues </strong>, 0(0).[[Paper]](https://doi.org/10.1177/0192513X251389211)
 
 - <strong>Liu, S*.</strong>, Bracke, P., & Delaruelle, K. Examining Self-Rated Health and Life Satisfaction Trajectories of the Sandwich Generations: Are Younger Generations More Vulnerable? (Submitted)
 
